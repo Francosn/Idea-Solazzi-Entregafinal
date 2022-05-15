@@ -1,0 +1,42 @@
+.container-fluid {
+   padding-left: 100px;
+   padding-right: 100px;
+   background-color: indianred  ;
+}
+
+.encabezado {
+    background-color: #443844;
+    color: white;
+    .titulo {
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    }
+}
+.principal {
+    background-color: #765167;
+    color: black;
+    padding: 35px;
+    .tarjeta {
+        padding: auto;
+        margin: auto;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .infoCarrerra {
+        padding: 5px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .listado {
+        margin: 15px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+}
+
+.pie {
+    text-align: center;
+    background-color: #765167;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: black;
+   
+
+}
