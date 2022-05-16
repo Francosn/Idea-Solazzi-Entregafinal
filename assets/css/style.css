@@ -1,11 +1,12 @@
 .container-fluid {
   padding-left: 100px;
   padding-right: 100px;
-  background-color: indianred;
+  background-color: #17202A;
+  color: white;
 }
 
 .encabezado {
-  background-color: #443844;
+  background-color: #566573;
   color: white;
 }
 
@@ -15,7 +16,7 @@
 }
 
 .principal {
-  background-color: #765167;
+  background-color: #566573;
   color: black;
   padding: 35px;
 }
@@ -38,7 +39,7 @@
 
 .pie {
   text-align: center;
-  background-color: #765167;
+  background-color: #566573;
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: black;
 }
